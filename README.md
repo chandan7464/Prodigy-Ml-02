@@ -2,10 +2,12 @@
 K-means clustering algorithm to group customers of a retail store based on their purchase history
 
 
+
 Create a K-means clustering algorithm to group customers of a retail store based on their purchase history.
 
 
 K-Means Clustering Algorithm K-Means Clustering is an unsupervised learning algorithm that is used to solve the clustering problems in machine learning or data science. In this topic, we will learn what is K-means clustering algorithm, how the algorithm works, along with the Python implementation of k-means clustering.
+
 
 
 What is K-Means Algorithm?
